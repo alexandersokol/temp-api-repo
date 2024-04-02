@@ -1,0 +1,54 @@
+[
+    {
+        "Name": "Tree Pollen",
+        "ID": -14,
+        "Ascending": false,
+        "LocalDateTime": "2024-04-02T07:00:00+02:00",
+        "EpochDateTime": 1712034000,
+        "Value": 3.0,
+        "Category": "Moderate",
+        "CategoryValue": 2,
+        "Text": "Tree pollen levels will be moderate.",
+        "MobileLink": "http://www.accuweather.com/en/fr/gros-caillou/2608428/allergies-weather/2608428?lang=en-us",
+        "Link": "http://www.accuweather.com/en/fr/gros-caillou/2608428/allergies-weather/2608428?lang=en-us"
+    },
+    {
+        "Name": "Ragweed Pollen",
+        "ID": -13,
+        "Ascending": false,
+        "LocalDateTime": "2024-04-02T07:00:00+02:00",
+        "EpochDateTime": 1712034000,
+        "Value": 1.0,
+        "Category": "Low",
+        "CategoryValue": 1,
+        "Text": "Ragweed pollen levels will be low.",
+        "MobileLink": "http://www.accuweather.com/en/fr/gros-caillou/2608428/health-activities/2608428?lang=en-us",
+        "Link": "http://www.accuweather.com/en/fr/gros-caillou/2608428/health-activities/2608428?lang=en-us"
+    },
+    {
+        "Name": "Mold",
+        "ID": -12,
+        "Ascending": false,
+        "LocalDateTime": "2024-04-02T07:00:00+02:00",
+        "EpochDateTime": 1712034000,
+        "Value": 5.0,
+        "Category": "High",
+        "CategoryValue": 3,
+        "Text": "Mold levels will be high. Plan activities and medication accordingly.",
+        "MobileLink": "http://www.accuweather.com/en/fr/gros-caillou/2608428/health-activities/2608428?lang=en-us",
+        "Link": "http://www.accuweather.com/en/fr/gros-caillou/2608428/health-activities/2608428?lang=en-us"
+    },
+    {
+        "Name": "Grass Pollen",
+        "ID": -11,
+        "Ascending": false,
+        "LocalDateTime": "2024-04-02T07:00:00+02:00",
+        "EpochDateTime": 1712034000,
+        "Value": 1.0,
+        "Category": "Low",
+        "CategoryValue": 1,
+        "Text": "Grass pollen levels will be low.",
+        "MobileLink": "http://www.accuweather.com/en/fr/gros-caillou/2608428/health-activities/2608428?lang=en-us",
+        "Link": "http://www.accuweather.com/en/fr/gros-caillou/2608428/health-activities/2608428?lang=en-us"
+    }
+]

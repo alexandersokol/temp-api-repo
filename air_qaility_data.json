@@ -1,0 +1,354 @@
+{
+    "Headline": {
+        "EffectiveDate": "2024-04-03T02:00:00+02:00",
+        "EffectiveEpochDate": 1712102400,
+        "Severity": 5,
+        "Text": "Expect rainy weather late Tuesday night through Wednesday morning",
+        "Category": "rain",
+        "EndDate": "2024-04-03T14:00:00+02:00",
+        "EndEpochDate": 1712145600,
+        "MobileLink": "http://www.accuweather.com/en/fr/gros-caillou/2608428/daily-weather-forecast/2608428?lang=en-us",
+        "Link": "http://www.accuweather.com/en/fr/gros-caillou/2608428/daily-weather-forecast/2608428?lang=en-us"
+    },
+    "DailyForecasts": [
+        {
+            "Date": "2024-04-02T07:00:00+02:00",
+            "EpochDate": 1712034000,
+            "Sun": {
+                "Rise": "2024-04-02T07:25:00+02:00",
+                "EpochRise": 1712035500,
+                "Set": "2024-04-02T20:24:00+02:00",
+                "EpochSet": 1712082240
+            },
+            "Moon": {
+                "Rise": "2024-04-02T04:35:00+02:00",
+                "EpochRise": 1712025300,
+                "Set": "2024-04-02T11:52:00+02:00",
+                "EpochSet": 1712051520,
+                "Phase": "Last",
+                "Age": 23
+            },
+            "Temperature": {
+                "Minimum": {
+                    "Value": 51.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 60.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "RealFeelTemperature": {
+                "Minimum": {
+                    "Value": 44.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Chilly"
+                },
+                "Maximum": {
+                    "Value": 53.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Cool"
+                }
+            },
+            "RealFeelTemperatureShade": {
+                "Minimum": {
+                    "Value": 44.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Chilly"
+                },
+                "Maximum": {
+                    "Value": 53.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Cool"
+                }
+            },
+            "HoursOfSun": 3.8,
+            "DegreeDaySummary": {
+                "Heating": {
+                    "Value": 10.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Cooling": {
+                    "Value": 0.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "AirAndPollen": [
+                {
+                    "Name": "AirQuality",
+                    "Value": 0,
+                    "Category": "Good",
+                    "CategoryValue": 1,
+                    "Type": "Ozone"
+                },
+                {
+                    "Name": "Grass",
+                    "Value": 0,
+                    "Category": "Low",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Mold",
+                    "Value": 32767,
+                    "Category": "High",
+                    "CategoryValue": 3
+                },
+                {
+                    "Name": "Ragweed",
+                    "Value": 0,
+                    "Category": "Low",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Tree",
+                    "Value": 50,
+                    "Category": "Moderate",
+                    "CategoryValue": 2
+                },
+                {
+                    "Name": "UVIndex",
+                    "Value": 4,
+                    "Category": "Moderate",
+                    "CategoryValue": 2
+                }
+            ],
+            "Day": {
+                "Icon": 13,
+                "IconPhrase": "Mostly cloudy w/ showers",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Light",
+                "ShortPhrase": "A few showers this afternoon",
+                "LongPhrase": "A shower in spots late this morning; breezy followed by brief showers this afternoon",
+                "PrecipitationProbability": 65,
+                "ThunderstormProbability": 13,
+                "RainProbability": 65,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 13.8,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 222,
+                        "Localized": "SW",
+                        "English": "SW"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 34.5,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 218,
+                        "Localized": "SW",
+                        "English": "SW"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.05,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.05,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 2.0,
+                "HoursOfRain": 2.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 76,
+                "Evapotranspiration": {
+                    "Value": 0.07,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 2617.1,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 55,
+                    "Maximum": 82,
+                    "Average": 66
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 44.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    },
+                    "Maximum": {
+                        "Value": 52.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    },
+                    "Average": {
+                        "Value": 49.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 47.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    },
+                    "Maximum": {
+                        "Value": 54.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    },
+                    "Average": {
+                        "Value": 52.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    }
+                }
+            },
+            "Night": {
+                "Icon": 12,
+                "IconPhrase": "Showers",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Moderate",
+                "ShortPhrase": "Cloudy, rain and drizzle late",
+                "LongPhrase": "Overcast with occasional rain and drizzle late",
+                "PrecipitationProbability": 83,
+                "ThunderstormProbability": 1,
+                "RainProbability": 83,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 8.1,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 195,
+                        "Localized": "SSW",
+                        "English": "SSW"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 21.9,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 202,
+                        "Localized": "SSW",
+                        "English": "SSW"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.16,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.16,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 2.5,
+                "HoursOfRain": 2.5,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 100,
+                "Evapotranspiration": {
+                    "Value": 0.01,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 3.6,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 75,
+                    "Maximum": 95,
+                    "Average": 82
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 50.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    },
+                    "Maximum": {
+                        "Value": 52.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    },
+                    "Average": {
+                        "Value": 51.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 50.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    },
+                    "Maximum": {
+                        "Value": 53.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    },
+                    "Average": {
+                        "Value": 51.0,
+                        "Unit": "F",
+                        "UnitType": 18
+                    }
+                }
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/fr/gros-caillou/2608428/daily-weather-forecast/2608428?day=1&lang=en-us",
+            "Link": "http://www.accuweather.com/en/fr/gros-caillou/2608428/daily-weather-forecast/2608428?day=1&lang=en-us"
+        }
+    ]
+}
