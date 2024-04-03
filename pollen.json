@@ -1,8 +1,8 @@
 {
     "airQualityIndex":1,
     "overallPollenIndex":1,
-    "relativeHumidity" : 49,
-    "grassPollenIndex" : 5,
+    "relativeHumidity" : 48,
+    "grassPollenIndex" : 1,
     "ragweedPollenIndex": 4,
     "treePollenIndex" : 4
 }
